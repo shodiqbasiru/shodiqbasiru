@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **M. Shaidq Firmansyah Basiruu**.
 
-> Saya seorang **Web Development Enthusiast** yang memiliki hasrat untuk terus belajar dan berkembang di dunia pengembangan web.
+> Saya seorang **Web Developer Enthusiast** yang memiliki hasrat untuk terus belajar dan berkembang di dunia pengembangan web.
 
 Jika kamu tertarik untuk berkenalan atau berkolaborasi, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/shodiq-basiru/) ku ya.
 
