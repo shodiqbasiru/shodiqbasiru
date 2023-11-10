@@ -1,12 +1,10 @@
 # Halo semua! 
 
-Perkenalkan nama saya **M. Shaidq Firmansyah Basiruu**.\
+Perkenalkan nama saya **M. Shaidq Firmansyah Basiruu**.
 
-> Saya seorang **Mahasiswa Sistem Informasi** di [Universitas Komputer Indonesia](https://www.unikom.ac.id/).\
+> Saya seorang **Web Development Enthusiast** yang memiliki hasrat untuk terus belajar dan berkembang di dunia pengembangan web.
 
-> Saya memiliki minat untuk memperdalam keahlian saya di bidang Web Development.\
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/shodiq-basiru-b2a179231/) ku ya.
+Jika kamu tertarik untuk berkenalan atau berkolaborasi, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/shodiq-basiru-b2a179231/) ku ya.
 
 
 <!-- <p align="left">
