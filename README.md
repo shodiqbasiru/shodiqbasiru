@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **springboot,react,vue,angular**
+- 💬 Ask me about **springboot,.Net,react,vue,angular**
 
 - 📫 How to reach me **shodiqbasiru@gmail.com**
 
