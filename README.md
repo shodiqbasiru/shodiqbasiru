@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Shadiq Firmansyah Basiru</h1>
 <h3 align="center">Fullstack Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Angular**
-
 - 💬 Ask me about **springboot,.Net,react,vue,angular**
 
 - 📫 How to reach me **shodiqbasiru@gmail.com**
