@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Shadiq Firmansyah Basiru</h1>
 <h3 align="center">Fullstack Developer from Indonesia</h3>
 
-- 💬 Ask me about **springboot,.Net,react,vue,angular**
+- 💬 Ask me about **springboot,.Net,react,vue,golang**
 
 - 📫 How to reach me **shodiqbasiru@gmail.com**
 
