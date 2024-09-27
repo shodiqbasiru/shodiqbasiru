@@ -18,8 +18,6 @@
     </a>
 </p>
 
----
-
 ### 🌱 Currently Learning
 
 - Flutter for mobile development
@@ -30,13 +28,9 @@
 - Frontend Development
 - Fullstack Development
 
----
-
 ## 🛠️ Skills
 
 ### Languages
-
-<div align="center">
 
 | Language   | Proficiency  |
 | ---------- | ------------ |
@@ -48,11 +42,7 @@
 | Dart       | Intermediate |
 | PHP        | Intermediate |
 
-</div>
-
 ### Technologies
-
-<div align="center">
 
 | Backend     | Frontend     | Databases  |
 | ----------- | ------------ | ---------- |
@@ -61,10 +51,6 @@
 | Laravel     | Nuxt 3       | MySQL      |
 |             | React Native |            |
 |             | Flutter      |            |
-
-</div>
-
----
 
 ## 📂 My Projects
 
@@ -85,8 +71,6 @@ Here are some of the projects I have worked on:
 | Cashier App                  | Cashier Application Website                                                                                            | PHP, Laravel, Vue.js, MySQL               | [GitHub Link](https://github.com/shodiqbasiru/kasir-app)                   |
 
 Feel free to check out the repositories for more details on the projects I’ve worked on.
-
----
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shodiqbasiru&show_icons=true&theme=radical" alt="GitHub Stats">
