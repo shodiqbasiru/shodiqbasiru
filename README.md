@@ -48,7 +48,8 @@
 | ----------- | ------------ | ---------- |
 | Spring Boot | React        | PostgreSQL |
 | .Net        | Vue          | SQL Server |
-| Laravel     | Nuxt 3       | MySQL      |
+| Laravel     | Next         | MySQL      |
+|             | Nuxt         | Firebase   |
 |             | React Native |            |
 |             | Flutter      |            |
 
