@@ -3,7 +3,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Status-Available-brightgreen" alt="Status">
-    <img src="https://img.shields.io/badge/Currently%20Learning-Flutter-blue" alt="Currently Learning">
 </p>
 
 <p align="center">
@@ -17,10 +16,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-Shodiq%20Basiru-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
-
-### 🌱 Currently Learning
-
-- Flutter for mobile development
 
 ### 💼 Available for
 
